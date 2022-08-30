@@ -1,7 +1,7 @@
 {
-    "name": "ANNA_BEN_BOT",
+    "name": "ALEXA_RoBot",
     "description": "When you going to send file on telegram channel this bot will save that in database, So you can search that easily in inline mode",
-    "logo": "https://telegra.ph/file/87fd3f1437dbd06644b20.jpg",
+    "logo": "https://graph.org/file/5e1461eab28fd4e73ddac.jpg",
     "keywords": [
       "telegram",
       "auto-filter",
@@ -16,7 +16,7 @@
       "inline"
     ],
     "website": "https://github.com/EvamariaTG/EvaMaria",
-    "repository": "https://github.com/EvamariaTG/EvaMaria",
+    "repository": "https://github.com/AlEXA-BOYS/alexa_movie_bot",
     "env": {
         "BOT_TOKEN": {
             "description": "Your bot token.",
